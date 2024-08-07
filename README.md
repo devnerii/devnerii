@@ -3,7 +3,7 @@ Hi 👋, I'm Daniel Neri<br>👨‍💻 A passionate Full Stack developer from B
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-neri-51a7b12b3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-neri-51a7b12b3)
 [![Workana](https://img.shields.io/badge/Workana-143362?style=for-the-badge&logo=workana&logoColor=white)](https://www.workana.com/freelancer/605927d469678a6ae9166b97adaf1160)
 [![Freelancer](https://img.shields.io/badge/Freelancer-0079FF?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/devneri)
 
