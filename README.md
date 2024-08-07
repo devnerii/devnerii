@@ -3,9 +3,7 @@ Hi 👋, I'm Daniel Neri<br>👨‍💻 A passionate Full Stack developer from B
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-neri-51a7b12b3)
-[![Workana](https://img.shields.io/badge/Workana-143362?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABIElEQVR42mJ0WkDUJRAA1T++WQ2Afqk8IK5J3EAi1UB8QCJgYF8UPT/EM5/ynMsnzPZpgB2gDyDkzGJMv+x2ZgYOD/w/qN/9DP5AwMDAwKxXG9/BiTmWysQE5Z+kHGzZ0A5MDAwIBmtP9/AOYG4Z9/y0FxxyYAjUQ+/8TcbHoCYkA2wOxXbNC/j6AwEBAQDkaB1jo6P0D9H/IwoULv8PqF18g5ABwMDDAxbZgAa2YEtwPy0BLgC5Zp2djYGu0hBYiYPD09BTWA4JfT9CAGbDPb/8zZGQQ0C6amJihthAWgy5n2/N0JrExkQFCg8Ly7glQiwkAAAECAXWCeUIcJor1AAAAAElFTkSuQmCC&logoColor=white)](https://www.workana.com/freelancer/605927d469678a6ae9166b97adaf1160)
-[![Freelancer](https://img.shields.io/badge/Freelancer-0079FF?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/devneri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-neri-51a7b12b3) 
 
 
 # 💻 Tech Stack:
