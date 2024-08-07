@@ -4,7 +4,11 @@ Hi 👋, I'm Daniel Neri<br>👨‍💻 A passionate Full Stack developer from B
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-neri-51a7b12b3)
-[![Workana](https://img.shields.io/badge/Workana-143362?style=for-the-badge&logo=workana&logoColor=white)](https://www.workana.com/)
+<a href="https://www.workana.com/">
+  <img src="https://img.shields.io/badge/Workana-143362?style=for-the-badge&logoColor=white" alt="Workana Badge">
+  <img src="https://i.imgur.com/TIV2nDn.png" alt="Workana Logo" height="28">
+</a>
+
 [![Freelancer](https://img.shields.io/badge/Freelancer-0079FF?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/devneri)
 
 
