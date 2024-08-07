@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Daniel Neri<br>A passionate Full Stack developer from Brazil<br>🔭 I’m currently working on Workana And Freelancer<br>👯 I’m looking to collaborate on Github<br>🌱 I’m currently learning React.js<br>📫 How to reach me dnnxzz70@gmail.com<br>👨‍💻 All of my projects are available at https://www.workana.com/freelancer/605927d469678a6ae9166b97adaf1160<br>
+Hi 👋, I'm Daniel Neri<br>👨‍💻 A passionate Full Stack developer from Brazil<br>🔭 I’m currently working on Workana And Freelancer<br>👯 I’m looking to collaborate on Github<br>🌱 I’m currently learning React.js<br>📫 How to reach me dnnxzz70@gmail.com<br>👨‍💻 All of my projects are available at https://www.workana.com/freelancer/605927d469678a6ae9166b97adaf1160<br>
 
 
 ## 🌐 Socials:
