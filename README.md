@@ -14,10 +14,10 @@ Hi 👋, I'm Daniel Neri<br>👨‍💻 A passionate Full Stack developer from B
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devneri&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnerii&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devneri&theme=dark&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnerii&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
